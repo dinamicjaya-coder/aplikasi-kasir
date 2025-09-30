@@ -1,0 +1,2 @@
+# aplikasi-kasir
+mendigitalisasi umkm
